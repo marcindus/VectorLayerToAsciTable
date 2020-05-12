@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "drogi_",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2177" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w317474086", "osm_id": "317474086", "osm_type": "way", "highway": "footway", "bridge": "" }, "geometry": { "type": "LineString", "coordinates": [ [ 6426518.437400891445577, 5659119.881252807565033 ], [ 6426517.550337716005743, 5659091.544946232810616 ], [ 6426510.443524889647961, 5659084.814764928072691 ] ] } }
+]
+}

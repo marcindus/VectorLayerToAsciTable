@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/sound_plan_export" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "punkty",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "opis": "centr", "nr": "K1", "x": 370812, "y": 290503 }, "geometry": { "type": "Point", "coordinates": [ 370811.794956207450014, 290503.422327408683486 ] } },
+{ "type": "Feature", "properties": { "id": 2, "opis": "centr", "nr": "K2", "x": 370831, "y": 290503 }, "geometry": { "type": "Point", "coordinates": [ 370831.437354523921385, 290502.540937740646768 ] } },
+{ "type": "Feature", "properties": { "id": 3, "opis": "centr", "nr": "K3", "x": 370898, "y": 290499 }, "geometry": { "type": "Point", "coordinates": [ 370897.541579627431929, 290498.889466258697212 ] } }
+]
+}

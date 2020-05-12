@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "punkty",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [[ 370811.1, 290503.4 ]] } },
+{ "type": "Feature", "properties": { "id": 37 }, "geometry": { "type": "Point", "coordinates": [[ 370892.1, 290430.2 ]] } }
+]
+}
